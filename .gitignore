@@ -1,0 +1,11 @@
+Debug
+packages
+bin
+obj
+www
+bower_components
+node_modules
+typings
+/DMS/DMS.v11.suo
+/DMS/Trafigura.DMS.Database/Trafigura.DMS.Database.dbmdl
+/DMS/DMS.v12.suo
